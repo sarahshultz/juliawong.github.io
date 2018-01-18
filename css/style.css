@@ -1,11 +1,16 @@
 
 
+
 /* CSS ADDED BY SARAH */
 
 /* accent color: 5DE5D6 */
 
 .subtitleText {
   font-size: 14px;
+}
+
+#aboutJulia {
+    font-size: 120%;
 }
 
 
@@ -633,7 +638,7 @@ a.btn {
 }
 
 .btn-primary-filled:hover {
-  color: white;
+  color: #111111;
   background: #5DE5D6;
   border: 2px solid #5DE5D6;
 }
@@ -1114,7 +1119,7 @@ a.btn {
 
 .nav-pills > li > a:hover {
   color: white;
-  background-color: #cccccc;
+  background-color: #2E148C;
 }
 
 .nav-pills > li > a {
@@ -1507,7 +1512,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .navbar-brand span {
-  color: #5DE5D6s;
+  color: #5DE5D6;
 }
 
 .navbar-toggle {
@@ -1527,7 +1532,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .navbar-toggle .icon-bar {
-  background: #5DE5D6;
+  background: #2E148C;
   width: 25px;
   height: 3px;
   margin: 5px 0;
@@ -2042,8 +2047,9 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .project .img-bg-color.primary {
-  background: #5DE5D6;
+  background: #FFFFFF;
 }
+
 
 .project .img-bg-color.default {
   background: #333333;
@@ -2143,7 +2149,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .project-title {
-  color: #525252;
+  color: #000000;
 
   font-size: 17px;
   letter-spacing: 0.1em;
@@ -2153,7 +2159,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .project .skill {
-  color: #f8f8f8;
+  color: #525252;
   font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.1em;
